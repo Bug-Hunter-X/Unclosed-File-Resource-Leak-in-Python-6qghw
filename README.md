@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: forgetting to close files after opening them.  The `bug.py` file shows the problematic code.  The `bugSolution.py` file presents a corrected version using the `with` statement, which automatically handles file closing, even in case of exceptions.
